@@ -15,6 +15,7 @@
 <h3>¿Que Tecnologías uso?</h3>
 <ul>
   <li>JavaScript</li>
+  <li>HTML</li>
   <li>React</li>
   <li>Redux</li>
   <li>CSS y Tailwind CSS</li>
